@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="21A559" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Item" representedClassName="Item" syncable="YES" codeGenerationType="class">
+        <attribute name="collection" optional="YES" attributeType="String" customClassName="[String]"/>
+        <attribute name="collectionColor" optional="YES" attributeType="String" customClassName="[String]"/>
+        <attribute name="image" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+        <attribute name="information" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+        <attribute name="name" optional="YES" attributeType="Transformable" customClassName="[String]"/>
+    </entity>
+    <elements>
+        <element name="Item" positionX="-63" positionY="-18" width="128" height="104"/>
+    </elements>
+</model>
